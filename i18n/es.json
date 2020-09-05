@@ -1,0 +1,18 @@
+{
+    "@metadata": {
+        "authors": [
+            "Alice",
+            "David",
+            "Santhosh"
+        ],
+        "last-updated": "2012-09-21",
+        "locale": "en",
+        "message-documentation": "qqq",
+        "AnotherMetadata": "AnotherMedatadataValue"
+    },
+    "index-subtitle": "Una especificacion de Markdown claramente definida y altamente compatible",
+    "index-what-md": "Que es Markdown?",
+    "appname-header-introduction": "Introduction",
+    "appname-about": "About this application",
+    "appname-footer": "Footer text"
+}
